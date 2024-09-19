@@ -54,9 +54,10 @@ main {
 }
 
 /* portfolio styles */
-#interests {
+#interests { border-radius: 10px;
     border: 4px rgb(255, 0, 0) ridge;
     padding: 8px;
+    display: flex;
 }
 h2, h3 {
     margin: 0px;
